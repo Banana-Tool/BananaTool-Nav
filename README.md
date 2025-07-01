@@ -14,6 +14,8 @@ BananaTool作为全网领先的一键发币工具，彻底终结代币开发的�
 
 **交流群**: https://t.me/bananatools
 
+![bananatool一键发币](./image/banana_home.png)
+
 ## **代币模板/机制** <a href="#dai-bi-mu-ban-ji-zhi" id="dai-bi-mu-ban-ji-zhi"></a>
 
 [标准代币](https://www.bananatool.com/token/Standard)：干净合约、方便上手、无税无功能、Ave检测全绿
